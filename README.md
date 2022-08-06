@@ -1,5 +1,5 @@
-👋 Hi, I’m @pxnt!    
-🌱 I’m currently studying CS
+👋 Hi, I’m @hwgn!    
+🌱 I’m currently studying CS @ THM.
 
 <!---
 - 👋 Hi, I’m @pxnt
