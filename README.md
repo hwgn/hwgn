@@ -1,5 +1,5 @@
 👋 Hi, I’m @hwgn!    
-🌱 I’m currently studying CS @ THM.
+🌱 I’m currently studying Software Engineering @ THM in Germany.
 
 <!---
 - 👋 Hi, I’m @pxnt
