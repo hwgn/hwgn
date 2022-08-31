@@ -1,6 +1,9 @@
 👋 Hi, I’m @hwgn!    
 🌱 I’m currently studying Software Engineering @ THM in Germany.
 
+![](https://raw.githubusercontent.com/hwgn/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/hwgn/github-stats/master/generated/languages.svg)
+
 <!---
 - 👋 Hi, I’m @pxnt
 - 👀 I’m interested in ...
