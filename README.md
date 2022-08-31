@@ -2,7 +2,9 @@
 🌱 I’m currently studying Software Engineering @ THM in Germany.
 
 ![](https://raw.githubusercontent.com/hwgn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hwgn/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/hwgn/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hwgn/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!---
 - 👋 Hi, I’m @pxnt
