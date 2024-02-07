@@ -1,5 +1,5 @@
 👋 Hi, I’m @hwgn!    
-🌱 I’m currently studying Software Engineering @ THM in Germany.
+🌱 I’m a fullstack software developer.
 
 ![](https://raw.githubusercontent.com/hwgn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/hwgn/github-stats/master/generated/overview.svg#gh-light-mode-only)
